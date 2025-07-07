@@ -9,7 +9,7 @@ env:
   LOCATION: westeurope
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: Ignite-lod50795444
-  WEBAPP-NAME: devops-webapp-westeurope-52773657RESOURCE-GROUP: rg-eshoponweb-westeurope
+  WEBAPP-NAME: devops-webapp-westeurope-52773657
 
 
 jobs:
